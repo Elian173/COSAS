@@ -5,6 +5,9 @@
 
 int main()
 {
+
+system("color 4F");
+
   char nombre[64];
   char apellido[64];
   int cantidad;
