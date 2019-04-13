@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1554770897 source:d:\nueva carpeta\tp2 recursado\arrayemployeesrecursado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"ArrayEmployeesRecursado.h"
+	"funciones.h"
+
+1554771075 d:\nueva carpeta\tp2 recursado\arrayemployeesrecursado.h
+
+1554761055 d:\nueva carpeta\tp2 recursado\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554761055 source:d:\nueva carpeta\tp2 recursado\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1554768866 source:d:\nueva carpeta\tp2 recursado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployeesRecursado.h"
+	"funciones.h"
+

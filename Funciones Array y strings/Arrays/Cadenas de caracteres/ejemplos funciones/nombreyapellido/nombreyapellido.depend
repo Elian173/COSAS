@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1554769157 source:c:\users\alumno\desktop\c\clases\clase 6\apellido y nombre\nombreyapellido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
+1554848366 source:c:\users\elian\desktop\repasito\3 -- cadenas de caracteres\ejercicio resuelto o ejemplos funciones\nombreyapellido\main.c
+	<stdio.h>
+	<stdlib.h>
+	"string.h"
+	"ctype.h"
+
