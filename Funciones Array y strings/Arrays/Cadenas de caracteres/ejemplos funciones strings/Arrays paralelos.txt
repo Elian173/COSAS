@@ -1,0 +1,5 @@
+Son arrays que estan relacionados entre si ,
+nombre , apellido , dni .
+No pueden ser intercambiados con otra persona.
+Si movemos el indice de el nombre , debemos mover al
+dni y apellido tambien.

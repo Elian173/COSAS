@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1554850279 source:d:\nueva carpeta\clase 7 arrays paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1555149560 source:f:\c\clases\clase 7\clase 7 arrays paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ctype.h"
+
+1555149598 source:c:\users\elian\desktop\cosas\funciones array y strings\arrays\cadenas de caracteres\ejemplos funciones strings\2 arrays paralelos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	"ctype.h"
+

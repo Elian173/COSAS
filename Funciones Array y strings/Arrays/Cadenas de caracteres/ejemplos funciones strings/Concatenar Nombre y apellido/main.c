@@ -39,8 +39,8 @@ int main()
     apellido [0] = toupper(apellido[0]);
 
 //
-
-    printf("%s y %s \n\n", nombre, apellido);
+    printf("printf:\n\n");
+    printf("%s %s \n\n", nombre, apellido);
 
 // concatenados -
 // hacer un strcopy o forzar un /0 al 1er elemento

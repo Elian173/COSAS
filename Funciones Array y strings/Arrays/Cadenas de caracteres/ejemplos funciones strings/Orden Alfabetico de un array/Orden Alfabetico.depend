@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1555147930 source:c:\users\elian\desktop\cosas\funciones array y strings\arrays\cadenas de caracteres\ejemplos funciones strings\orden alfabetico de un array\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
