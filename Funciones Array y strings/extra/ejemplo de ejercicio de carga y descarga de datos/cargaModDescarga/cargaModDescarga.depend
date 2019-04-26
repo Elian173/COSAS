@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555373510 source:e:\cosas\funciones array y strings\extra\ejemplo de ejercicio de carga y descarga de datos\cargamoddescarga\main.c
+	<stdio.h>
+	<stdlib.h>
+
