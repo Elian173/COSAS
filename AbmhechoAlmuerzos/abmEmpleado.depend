@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1538785630 source:c:\users\alumno\desktop\abmempleado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1538785298 source:c:\users\alumno\desktop\abmempleado\empleado.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1538777173 c:\users\alumno\desktop\abmempleado\empleado.h
+
+1538786188 source:e:\cosas\abmhechoalmuerzos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+
+1538777174 e:\cosas\abmhechoalmuerzos\empleado.h
+
+1538785300 source:f:\cosas\abmhechoalmuerzos\empleado.c
+	"empleado.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1556824506 f:\cosas\abmhechoalmuerzos\empleado.h
+
+1556823632 source:f:\cosas\abmhechoalmuerzos\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"empleado.h"
+

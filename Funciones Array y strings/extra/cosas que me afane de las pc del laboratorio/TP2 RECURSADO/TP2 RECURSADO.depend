@@ -29,3 +29,33 @@
 	"ArrayEmployeesRecursado.h"
 	"funciones.h"
 
+1555373508 source:f:\cosas\funciones array y strings\extra\cosas que me afane de las pc del laboratorio\tp2 recursado\arrayemployeesrecursado.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"ArrayEmployeesRecursado.h"
+	"funciones.h"
+
+1555373510 f:\cosas\funciones array y strings\extra\cosas que me afane de las pc del laboratorio\tp2 recursado\arrayemployeesrecursado.h
+
+1555373510 f:\cosas\funciones array y strings\extra\cosas que me afane de las pc del laboratorio\tp2 recursado\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1555373510 source:f:\cosas\funciones array y strings\extra\cosas que me afane de las pc del laboratorio\tp2 recursado\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<time.h>
+
+1555373510 source:f:\cosas\funciones array y strings\extra\cosas que me afane de las pc del laboratorio\tp2 recursado\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"ArrayEmployeesRecursado.h"
+	"funciones.h"
+

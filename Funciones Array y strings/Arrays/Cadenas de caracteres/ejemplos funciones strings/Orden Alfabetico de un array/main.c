@@ -31,7 +31,6 @@ strcpy(auxiliar, nombre[i]);
 strcpy(nombre[i], nombre[j]);
 strcpy(nombre[j], auxiliar);
 }
-
 }
 }
 
