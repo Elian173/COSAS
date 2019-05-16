@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1512535522 source:c:\users\geo\desktop\parcial\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1496883878 c:\users\geo\desktop\parcial\arraylist.h
+
+1512563315 source:d:\recup 2do parcial georgina maranghello\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512564387 d:\recup 2do parcial georgina maranghello\arraylist.h
+
+1512570515 source:d:\recup 2do parcial georgina maranghello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512569705 d:\recup 2do parcial georgina maranghello\funciones.h
+
+1512571332 source:d:\recup 2do parcial georgina maranghello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512563316 source:f:\cosas\parciales\parcial2\recup 2do parcial georgina maranghello\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512564388 f:\cosas\parciales\parcial2\recup 2do parcial georgina maranghello\arraylist.h
+
+1512570516 source:f:\cosas\parciales\parcial2\recup 2do parcial georgina maranghello\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512569706 f:\cosas\parciales\parcial2\recup 2do parcial georgina maranghello\funciones.h
+
+1512571334 source:f:\cosas\parciales\parcial2\recup 2do parcial georgina maranghello\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
